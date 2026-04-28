@@ -9,7 +9,7 @@ from google import genai
 
 # 1. Setup your API Key
 # Make sure this string is exactly what you got from AI Studio
-API_KEY = "AIzaSyDaHTQUf2lte74VehFNDRzEWFRdfaN-ey4"
+API_KEY = ".................................."
 
 # 2. Initialize the client
 client = genai.Client(api_key=API_KEY)
